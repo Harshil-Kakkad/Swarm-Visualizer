@@ -22,7 +22,7 @@ Example Usage:
 ```bash
 python "Innovathon 25/nav_swarm30/evaluator.py" --scenario "Innovathon 25/nav_swarm30/scenarios/S6.json" --team "Innovathon 25/nav_swarm30/teams/my_agent.py" --trace TRACE
 ```
-Note: Keep visualiz.py in same folder where Trace file is generated
+Note: Keep visualize.py in same folder where Trace file is generated
 ---
 
 ### Step 2: Generate Video from Trace
