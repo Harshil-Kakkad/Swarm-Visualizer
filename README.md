@@ -39,6 +39,10 @@ python "Innovathon 25/visualize.py" --scenario "Innovathon 25/nav_swarm30/scenar
 
 ---
 
+### Step 3 (Optional)
+
+You can speedup the exported video by 3x or 6x to convert it to 5-min video by using any video editor tool like Clipchamp by Microsoft
+
 ## Author
 
 Harshil Kakkad
